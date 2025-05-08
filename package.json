@@ -1,0 +1,12 @@
+{
+  "name": "coding-challenges-practice",
+  "version": "1.0.0",
+  "description": "Welcome! This repository is dedicated to solving coding challenges and strengthening core programming skills through practice. It is inspired by the [70+ JavaScript Challenges: Data Structures & Algorithms](https://www.udemy.com/course/javascript-challenges/?couponCode=KEEPLEARNING) course and [Codecademy courses](https://www.codecademy.com/enrolled/paths/full-stack-engineer-career-path).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
