@@ -1,6 +1,8 @@
-function helloWorld() {
+function helloWorld(name) {
   // Return the string 'Hello World!'
-  return "Hello World!";
+  name ? (name = name) : (name = "Stranger");
+  return `Hello ${name}, Welcome to World!`;
 }
 
-module.exports = helloWorld;
+let result = helloWorld();
+console.log(result);
